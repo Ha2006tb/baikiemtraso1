@@ -1,5 +1,4 @@
 <?php
-// Bài 2: Kiểm tra số nguyên tố
 function kiemTraSoNguyenTo($n) {
     if ($n < 2) {
         return false;
@@ -12,7 +11,6 @@ function kiemTraSoNguyenTo($n) {
     return true;
 }
 
-// Thay đổi giá trị số cần kiểm tra tại đây
 $number = 7; 
 
 if (kiemTraSoNguyenTo($number)) {
