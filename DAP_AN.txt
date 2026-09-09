@@ -1,4 +1,4 @@
-DÁP ÁN 
+ĐÁP ÁN 
 
 1. c. PHP: Hypertext Preprocessor
 2. b. echo()
